@@ -1,5 +1,9 @@
-{
-  "users": [
-    ""
-  ]
-}
+[
+  {
+    "username": "",
+    "password": "",
+    "role": "",
+    "isPremium": ,
+    "expTime": 
+  }   
+]
